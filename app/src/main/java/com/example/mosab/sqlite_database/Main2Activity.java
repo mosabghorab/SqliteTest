@@ -1,9 +1,7 @@
 package com.example.mosab.sqlite_database;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
-import android.view.Menu;
-import android.view.MenuItem;
 
 public class Main2Activity extends AppCompatActivity {
 
